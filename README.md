@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Ellie 😊
+- 👀 I’m interested in Minecraft Modding, Web Development, Human Rights!
+- 🌱 I’m currently learning Web Development!
+- 📫 How to reach me Please make an issue on this repo (https://github.com/Ellie-McQuinn/Ellie-McQuinn)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I'm queer and disabled, not physically.
